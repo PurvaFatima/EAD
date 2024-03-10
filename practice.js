@@ -2,12 +2,9 @@
 //alert("Hello JS!") //gives an box popup on the website
 
 
-
-
 console.log("this is first js code"); // statement used to print anything on the screen
 //to store any data in the code we use variables there are some types of variables named variables -> var and constants -> const
 //let and objects
-
 
 
 var age=24; // Here, we declare a variable named 'age' and assign it the value of 24.

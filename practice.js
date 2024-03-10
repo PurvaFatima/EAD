@@ -15,14 +15,13 @@ console.log(x); // Output: 20
 
 const y = {name: 'John'}; //this is another type of variable in javascript called object. In JavaScript, an object is a collection of properties, where each property is a key-value pair. 
 //An object can be thought of as a container for storing and organizing data and functionality.
-
-
 console.log(y); // Output: {name: 'John'}
 y.name = 'Jane';
 console.log(y); // Output: {name: 'Jane'}
 //here, x is declared with var and can be reassigned. y is declared with const and its value is an object. Although the value of the object cannot be changed, the properties of the object can be updated.
 // So, even though y is declared with const, the value of y.name can be changed from 'John' to 'Jane'.
-//here where we usethis "=" operator as ignment operator which means that whatever right side value comes in left side container then it will get replaced by the initial value of that for example: 
+
+//here where we use this "=" operator as ignment operator which means that whatever right side value comes in left side container then it will get replaced by the initial value of that for example: 
 //if we say a=b then whatever value is in a will be given to b as well
 let z = 5;
 z += 3; // This line is equivalent to z = z + 3
